@@ -1,2 +1,2 @@
 # Notes-making
-purely made with the help of javascript 
+A note making site  made with the help of javascript  
